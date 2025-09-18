@@ -1,2 +1,2 @@
 print("Hello, World!")
-print("This is a sample Pythonne")
+print("This is a sample honne")
