@@ -1,2 +1,2 @@
 print("Hello, World!")
-print("This is a sam hnecc")
+print("This is a sam hncc")
