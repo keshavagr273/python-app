@@ -1,7 +1,7 @@
 from django.http import HttpResponse
 
 def welcome(request):
-    return HttpResponse("Welcome to our amazing Django application!")
+    return HttpResponse("Welcome to our amazing application!")
 
 def dashboard(request):
     return HttpResponse("This is your personalized dashboard with all the latest updates.")
